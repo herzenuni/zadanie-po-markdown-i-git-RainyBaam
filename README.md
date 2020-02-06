@@ -51,4 +51,10 @@
 |3|**Индекс Хирша** в РИНЦ|118|121|128|141|
 |4|**Количество публикаций в зарубежных изданиях**|17|17|27|11|
 
+![](https://ict.herzen.spb.ru/user/themes/bootstrap/images/master-photos/DSCN0951.JPG) 
+
+![](https://ict.herzen.spb.ru/user/themes/bootstrap/images/master-photos/С_Виртом.JPG)
+
+![](https://ict.herzen.spb.ru/user/themes/bootstrap/images/master-photos/gall_img.php1.jpeg)
+
 <!-- Автор верстки: Иванов Иван Андреевич -->
